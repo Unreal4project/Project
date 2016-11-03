@@ -1,0 +1,19 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+/Config/
+/Content/
+/Project.uproject
+/Prova commit.txt
+/README.md
+/
+/Source/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
