@@ -21,7 +21,7 @@ writing
 _config.yml
 404.html
 Apache LICENSE Version 2.0.markdown
-browser.json
+bower.json
 Gruntfile.js
 package.json
 sitemap.xml
