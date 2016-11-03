@@ -1,9 +1,9 @@
 # Site settings
-title: "MADness"
-description: A Template for Jekyll
+title: "Nalewki Winds of Rebellion"
+description: Un sito per il nostro progetto di maturità
 
 # Files
-baseurl:
+baseurl: index.html
 pagesdir: pages
 assets:
   libs: assets/libs
