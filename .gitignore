@@ -2,6 +2,14 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+madforjekyll.github.io-master
+_sitenode_modules
+_includes
+_layouts
+_posts
+assets
+pages
+writing
 *.VC.db
 *.opensdf
 *.opendb
@@ -10,3 +18,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+_config.yml
+404.html
+Apache LICENSE Version 2.0.markdown
+bower.json
+Gruntfile.js
+package.json
+sitemap.xml
